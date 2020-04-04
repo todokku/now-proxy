@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "strict": true,
+    "jsx": "react",
+    "target": "es2017",
+    "sourceMap": false,
+    "esModuleInterop": true,
+    "lib": ["dom", "es2015", "es2016", "es2017"]
+  }
+}
